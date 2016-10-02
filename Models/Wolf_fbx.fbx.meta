@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 32d57b5a5b9577e4cb84bf2bfed280c8
-timeCreated: 1475427291
+guid: ce0a6c43870f0944ba69360331f9011e
+timeCreated: 1475444174
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -161,7 +161,7 @@ ModelImporter:
     13700002: Wolf_obj_fur
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 2
     materialSearch: 1
   animations:
     legacyGenerateAnimations: 4
@@ -183,7 +183,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 8
+    globalScale: 10
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
